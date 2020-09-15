@@ -7,7 +7,7 @@
 A urna foi feita para a votação dos dois personagens de uma apresentação, onde eles concorriam pela presidência do Brasil, com diferentes propostas fictícias e exageradas.
 
 ## Funcionalidade
-  A idéia foi tirada de um tutorial com mais algumas adaptadas.
+  A idéia foi tirada do tutorial https://www.youtube.com/watch?v=QmoyGFiE1V8 com adaptações.
   
   ![Funcionalidade](https://user-images.githubusercontent.com/60450622/93270314-40ead980-f787-11ea-8e47-4c69dff894dc.PNG)
   
