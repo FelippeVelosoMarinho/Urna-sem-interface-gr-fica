@@ -10,3 +10,5 @@ A urna foi feita para a votação dos dois personagens de uma apresentação, on
   A idéia foi tirada de um tutorial com mais algumas adaptadas.
   
   A eleitor então iria selecionar 78 para votar no candidato Policial Disfarçado-PDE, 34 para Natasha Caldeirão-PNC ou 00 para anular. Ao contabilizar 100 votos o vencedor seria anunciado. A campeã foi Natsha Caldeirão-PNC, disparadamente. ;-;
+  
+ 
